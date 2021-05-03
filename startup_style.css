@@ -1,0 +1,30 @@
+body,html {
+height: 100%;
+width: 100%;
+color: white;
+font-family: 'Montserrat', sans-serif;
+  background: url(denis-pavlovic-ehrjkW-aGF4-unsplash.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.btn{
+font-weight: 700;
+border-radius: 250px;
+  background-color: #a7661d;
+  border-color: #a7661d;
+}
+.btn:hover {
+  background-color: #7a1901;
+  border: solid #7a1901 5px;
+}
+hr {background-color: #a7661d;
+width: 80px;
+}
+h1{
+  text-align: center;
+}
+.buffer {
+  height:241px;
+}
